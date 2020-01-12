@@ -1,0 +1,24 @@
+{
+  "name": "gojobtest",
+  "version": "1.0.0",
+  "description": "gojobtest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kronox21/GoJobTest.git"
+  },
+  "author": "kronox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kronox21/GoJobTest/issues"
+  },
+  "homepage": "https://github.com/Kronox21/GoJobTest#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0"
+  }
+}
